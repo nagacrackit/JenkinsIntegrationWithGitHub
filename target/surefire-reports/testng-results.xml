@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Buy.buy.HomeTest" duration-ms="112830" started-at="2018-12-22T12:04:25Z" finished-at="2018-12-22T12:06:17Z">
+    <groups>
+      <group name="Home">
+        <method signature="HomeTest.verifyTitle()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="verifyTitle" class="Buy.buy.HomeTest"/>
+      </group> <!-- Home -->
+    </groups>
+    <test name="Command line test" duration-ms="112830" started-at="2018-12-22T12:04:25Z" finished-at="2018-12-22T12:06:17Z">
+      <class name="Buy.buy.HomeTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="launchApp" is-config="true" duration-ms="64064" started-at="2018-12-22T17:34:25Z" finished-at="2018-12-22T17:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLinks()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="verifyLinks" duration-ms="479" started-at="2018-12-22T17:35:29Z" finished-at="2018-12-22T17:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinks -->
+        <test-method status="PASS" signature="tearDownApp()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="tearDownApp" is-config="true" duration-ms="1758" started-at="2018-12-22T17:35:29Z" finished-at="2018-12-22T17:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownApp -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="launchApp" is-config="true" duration-ms="44628" started-at="2018-12-22T17:35:31Z" finished-at="2018-12-22T17:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="verifyTitle" duration-ms="20" started-at="2018-12-22T17:36:16Z" finished-at="2018-12-22T17:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDownApp()[pri:0, instance:Buy.buy.HomeTest@67b64c45]" name="tearDownApp" is-config="true" duration-ms="1863" started-at="2018-12-22T17:36:16Z" finished-at="2018-12-22T17:36:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownApp -->
+      </class> <!-- Buy.buy.HomeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Buy.buy.HomeTest -->
+</testng-results>

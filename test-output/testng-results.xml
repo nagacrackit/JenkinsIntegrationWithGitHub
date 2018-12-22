@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79480" started-at="2018-12-22T11:40:11Z" finished-at="2018-12-22T11:41:31Z">
+    <groups>
+      <group name="Home">
+        <method signature="AppTest1.verifyTitle()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="verifyTitle" class="Buy.buy.AppTest1"/>
+      </group> <!-- Home -->
+    </groups>
+    <test name="Default test" duration-ms="79480" started-at="2018-12-22T11:40:11Z" finished-at="2018-12-22T11:41:31Z">
+      <class name="Buy.buy.AppTest1">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="launchApp" is-config="true" duration-ms="42207" started-at="2018-12-22T17:10:11Z" finished-at="2018-12-22T17:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyLinks()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="verifyLinks" duration-ms="221" started-at="2018-12-22T17:10:53Z" finished-at="2018-12-22T17:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinks -->
+        <test-method status="PASS" signature="tearDownApp()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="tearDownApp" is-config="true" duration-ms="1149" started-at="2018-12-22T17:10:54Z" finished-at="2018-12-22T17:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownApp -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="launchApp" is-config="true" duration-ms="34168" started-at="2018-12-22T17:10:55Z" finished-at="2018-12-22T17:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="verifyTitle" duration-ms="26" started-at="2018-12-22T17:11:29Z" finished-at="2018-12-22T17:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDownApp()[pri:0, instance:Buy.buy.AppTest1@3a82f6ef]" name="tearDownApp" is-config="true" duration-ms="1690" started-at="2018-12-22T17:11:29Z" finished-at="2018-12-22T17:11:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownApp -->
+      </class> <!-- Buy.buy.AppTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
